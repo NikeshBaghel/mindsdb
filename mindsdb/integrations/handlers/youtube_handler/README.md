@@ -56,6 +56,7 @@ SELECT * FROM mindsdb_youtube.get_comments
 WHERE youtube_video_id = "raWFGQ20OfA"
 ORDER BY display_name ASC
 LIMIT 5;
+
 ~~~~
 
 Sample Command for the channel handler
